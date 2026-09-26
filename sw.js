@@ -3,7 +3,7 @@
    يخزّن الملفات مؤقتاً ليعمل التطبيق بدون إنترنت
    ================================================================== */
 
-const CACHE_NAME = 'mishwar-v1';
+const CACHE_NAME = 'mishwar-v2';
 const CACHE_FILES = [
   './',
   './index.html',
